@@ -23,14 +23,14 @@ BIOS: Phoenix AwardBIOS
 
 | Physical Port | Sophos Interface |
 |--------------|-----------------|
-| Port 1 | Port 2 |
-| Port 2 | Port 1 |
-| Port 3 | Port 8 |
-| Port 4 | Port 7 |
-| Port 5 | Port 6 |
-| Port 6 | Port 5 |
-| Port 7 | Port 4 |
-| Port 8 | Port 3 |
+| Port H | Port 2 |
+| Port G | Port 1 |
+| Port F | Port 8 |
+| Port E | Port 7 |
+| Port D | Port 6 |
+| Port C | Port 5 |
+| Port B | Port 4 |
+| Port A | Port 3 |
 
 Always verify mapping manually before assigning WAN/LAN.
 
